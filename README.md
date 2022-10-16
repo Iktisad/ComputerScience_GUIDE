@@ -13,6 +13,6 @@ You just need to understand how to express the complexity of an algorithm in ter
  - ✅ [Basics of Asymptotic Analysis - Part 5 (video)](https://youtu.be/lRy3RmxjR0k)
  - ✅ [Guidelines of Asymptotic Analysis - Part 1 (video)](https://youtu.be/BpiMRyWoDu0)
  - ✅ [Guidelines of Asymptotic Analysis - Part 2 (video)](https://youtu.be/Aky8vEtC2dY)
- - ☑️ [Asymptotic Analysis (Solved Problem 1) - Part 1 (video)](https://youtu.be/HFjJgSguqUA)
+ - ✅ [Asymptotic Analysis (Solved Problem 1) - Part 1 (video)](https://youtu.be/HFjJgSguqUA)
  - ☑️ [Asymptotic Analysis (Solved Problem 2) - Part 2 (video)](https://youtu.be/_92v4uTrTwM)
  - ☑️ [Asymptotic Analysis (Solved Problem 3) - Part 3 (video)](https://youtu.be/WWeUhPlUt1k)
